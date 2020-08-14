@@ -1,0 +1,28 @@
+_repo: Geoffrey-de-Mandeville-A-study-of-the-Anarchy_62878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Round, John Horace
+    alias: Round, J. Horace (John Horace)
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '42532'
+    url: http://www.gutenberg.org/2009/agents/42532
+    wikipedia: https://en.wikipedia.org/wiki/J._Horace_Round
+description: ''
+gutenberg_issued: '2020-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62878'
+  lccn: 01013748
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Stephen, 1135-1154'
+- !lcsh 'Mandeville, Geoffrey de, earl of Essex, -1144'
+- GITenberg
+title: 'Geoffrey de Mandeville: A study of the Anarchy'
+url: http://www.gutenberg.org/ebooks/62878
